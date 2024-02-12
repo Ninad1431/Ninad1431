@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web penetration testing,C and Python
 - 💞️ I’m looking to collaborate on Red Team Hacking
 - 📫 How to reach me ... mail :- ninadshetty1431@gmail.com
-- 🕸️ My Website ... https://daninhacxx.live
+- 🕸️ My Website ... https://daninhacxx.tech
 
 <!---
 Ninad1431/Ninad1431 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
